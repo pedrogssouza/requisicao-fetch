@@ -28,4 +28,4 @@ Preencha a checklist para finalizar o exercício:
 - [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 - [ ] Realizar o pull request
 
-###### tags: `modulo 3` `React` `fetch` `exercício de classe` 
+###### tags: `modulo 2` `React` `fetch` `exercício de classe` 
